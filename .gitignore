@@ -1,0 +1,29 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# Datasets
+*.csv
+
+# Logs
+*.log
+
+# ML models
+*.safetensors
+*.pkl
+
+# VS Code
+.vscode/
+
+# Jupyter
+.ipynb_checkpoints/
