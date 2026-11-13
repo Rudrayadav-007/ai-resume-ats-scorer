@@ -1,0 +1,2 @@
+*.ipynb linguist-detectable=false
+jupyter notebooks/* linguist-detectable=false
